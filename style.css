@@ -1,5 +1,5 @@
 body{
-    background-color: blueviolet;
+    background-color: wheat;
 }
 header{
     display: grid;
@@ -20,7 +20,7 @@ footer{
 
 .country-info {
     margin-top: 20px;
-    border: 4px solid wheat;
+    border: 4px solid black;
     padding: 10px;
     display: inline-block;
     border-radius: 20px;
